@@ -1,4 +1,4 @@
-### My name is Danny, I'm a UI developer
+### My name is Danny, I'm a Web Developer & UI Designer
 
 - 🔭 I’m currently working on a project that dives into every era of **The Weeknd**
 - 🌱 I’m currently learning ***React + JSX***
